@@ -1,4 +1,4 @@
-#PYMODBUS-TLS
+# pymodbus-tls
 
 pymodbus-tls is a project based on pymodbus library which uses sslsocket to create a socket TLS to ensure the communication
 
