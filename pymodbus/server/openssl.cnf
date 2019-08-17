@@ -1,0 +1,9 @@
+[req]
+req_extensions=role
+distinguished_name=req_distinguished_name
+[req_distinguished_name]
+[role]
+1.3.6.1.4.50316.802.1=ASN1:UTF8String:operator
+#basicConstraints = CA:FALSE
+#keyUsage=critical
+#1.2.3.4=ASN1:UTF8String:Some
